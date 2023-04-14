@@ -1,2 +1,2 @@
-export const API_KEY = "49396320-f43b-414b-8407-53410d2791cb";
-export const LIMIT = 100;
+export const API_KEY = 'ce9e4e1d-2052-4755-87f1-73b4eae8a25e'
+export const LIMIT = 100
